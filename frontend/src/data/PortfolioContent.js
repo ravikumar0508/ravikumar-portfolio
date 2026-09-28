@@ -10,7 +10,9 @@ import JsBasicCert from "../assets/images/certifications/javascript_basic.jpg";
 import JsInterCert from "../assets/images/certifications/javascript_inter.jpg";
 import NodeBasicCert from "../assets/images/certifications/node_basic.jpg";
 import FrontendCert from "../assets/images/certifications/frontend_cert.jpg";
+import FullStackCert from "../assets/images/certifications/FullStack.png";
 import Avatar from "../assets/images/avatar.png";
+import CodeAlphaLogo from "../assets/images/alpha_logo.png";
 
 export const PortfolioContent = {
   about: {
@@ -443,6 +445,16 @@ export const PortfolioContent = {
         description:
           "HackerRank-certified in frontend development with hands-on skills in React, JavaScript, and CSS.",
         link: "https://www.hackerrank.com/certificates/0c3026f45db6",
+      },
+      {
+        id: 6,
+        title: "FullStack Developer (Intern) Certificate",
+        issuer: "CodeAlpha",
+        logoUrl: CodeAlphaLogo,
+        imageUrl: FullStackCert,
+        description:
+          "Completed a Full Stack Development Internship at CodeAlpha.",
+        link: "https://www.codealpha.tech/#/verification?id=CA%2FDF1%2F250081",
       },
     ],
   },
