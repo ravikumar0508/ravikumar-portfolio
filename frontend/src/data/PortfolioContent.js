@@ -4,6 +4,7 @@ import Project3 from "../assets/images/block.jpg";
 import Project4 from "../assets/images/ecom.jpg";
 import Project5 from "../assets/images/portfolio.png";
 import Project6 from "../assets/images/doctor.png";
+import Project7 from "../assets/images/estate.png";
 import ReactBasicCert from "../assets/images/certifications/react_basic.jpg";
 import JsBasicCert from "../assets/images/certifications/javascript_basic.jpg";
 import JsInterCert from "../assets/images/certifications/javascript_inter.jpg";
@@ -314,6 +315,17 @@ export const PortfolioContent = {
         liveUrl: "https://doctor-portfolio-five-beta.vercel.app",
         githubUrl: "",
       },
+      {
+        id: 7,
+          title: "Homeverse | Real Estate",
+  description: "Modern real estate website showcasing properties, services, and a premium home-buying experience",
+  imageUrl: Project7,
+  emoji: "🏠",
+  category: "frontend",
+  tags: ["React", "GSAP", "Lenis", "Responsive"],
+  liveUrl: "https://real-estate-website-pi-lime.vercel.app",
+  githubUrl: "",
+},
     ],
   },
   contact: {
