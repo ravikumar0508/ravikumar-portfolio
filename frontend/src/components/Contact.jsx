@@ -279,7 +279,7 @@ export default function Contact() {
               <span className="info-icon"><EmailIcon /></span>
               <div>
                 <h4>Email</h4>
-                <p>uzaaiaamirr@gmail.com</p>
+                <p>ravikumar9361@gmail.com</p>
               </div>
             </div>
             <div className="info-item">
