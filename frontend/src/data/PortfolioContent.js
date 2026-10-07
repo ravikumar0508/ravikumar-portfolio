@@ -20,12 +20,12 @@ export const PortfolioContent = {
     title: "Passionate about Testing",
     titleHighlight: "digital experiences",
     paragraphs: [
-  "I'm a QA Lead and AI Automation Engineer with 6+ years of experience transforming software quality through intelligent test automation, API testing, and AI-driven validation. I specialize in building scalable automation solutions for web, mobile, APIs, and next-generation Generative AI applications.",
+  "I'm a QA Lead and AI Automation Engineer with 7+ years of experience transforming software quality through intelligent test automation, API testing, and AI-driven validation. I specialize in building scalable automation solutions for web, mobile, APIs, and next-generation Generative AI applications.",
   
   "From automating complex enterprise workflows to testing LLMs, AI agents, recommendation engines, and computer vision systems, I focus on making software more reliable, accurate, secure, and production-ready. I combine strong QA engineering practices with modern technologies like Python, Playwright, Selenium, Robot Framework, Appium, and AI testing techniques to deliver quality at scale.",
 ],
     stats: [
-  { number: "6+", label: "Years Experience" },
+  { number: "7+", label: "Years Experience" },
   { number: "20+", label: "Projects Delivered" },
   { number: "15+", label: "Automation Technologies" },
 ],
@@ -79,7 +79,7 @@ skills: [
       secondary: "View Projects",
     },
     stats: [
-      { number: "6+", label: "Years Experience" },
+      { number: "7+", label: "Years Experience" },
       { number: "20+", label: "Projects Done" },
       { number: "15+", label: "Tech Stack" },
     ],
@@ -439,7 +439,7 @@ skills: [
 },
     summary: [
       { number: "12+", label: "Technologies" },
-      { number: "6+", label: "Years Experience" },
+      { number: "7+", label: "Years Experience" },
       { number: "20+", label: "Projects Delivered" },
       { number: "100%", label: "Client Satisfaction" },
     ],
