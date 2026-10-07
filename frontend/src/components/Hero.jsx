@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import PortfolioContent from "../data/PortfolioContent";
 import "../styles/Hero.css";
-import cvPDF from "../assets/CV/my_cv.pdf";
+import cvPDF from "../assets/CV/Ravi_Kumar_QA Lead.pdf";
 
 export default function Hero() {
   const { hero } = PortfolioContent;
@@ -14,7 +14,7 @@ export default function Hero() {
     setTimeout(() => {
       const link = document.createElement("a");
       link.href = cvPDF;
-      link.download = "Uzair_CV.pdf";
+      link.download = "Ravi_Kumar_QA_Lead_CV.pdf";
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
