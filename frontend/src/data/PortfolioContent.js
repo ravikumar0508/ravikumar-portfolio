@@ -439,7 +439,7 @@ skills: [
 },
     summary: [
       { number: "12+", label: "Technologies" },
-      { number: "2+", label: "Years Experience" },
+      { number: "6+", label: "Years Experience" },
       { number: "20+", label: "Projects Delivered" },
       { number: "100%", label: "Client Satisfaction" },
     ],
